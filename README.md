@@ -14,4 +14,4 @@ __This document is for informational purposes only and does not constitute an of
 
 FirstBlood.io (“FirstBlood”) is an upcoming decentralized eSports gaming app that will allow individuals to test their skill and compete in 1v1 and team vs team matches for popular online games, such as League of Legends, Dota 2, and Counter-Strike: Global Offensive.
 
-[Continue reading FirstBlood Whitepaper](FirstBlood Whitepaper.pdf)
+[Continue reading FirstBlood White Paper](FirstBlood White Paper.pdf)
