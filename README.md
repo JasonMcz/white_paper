@@ -1,13 +1,7 @@
 # FirstBlood
 
 A Decentralized eSports Platform Based on Smart Contracts
-
-<span style="color:grey; font-family: 'Bebas Neue'; font-size: 0.5em;">
-Marco Cuesta, Zack Coburn, Anik Dang, Daniel Temkin, Joe Zhou
-</span>
-
 Draft Version 0.1
-
 August 2016
 
 __This document is for informational purposes only and does not constitute an offer or solicitation to sell shares or securities in FirstBlood or any related or associated company. Any such offer or solicitation will be made only by means of a confidential offering memorandum and in accordance with the terms of all applicable securities and other laws.__
