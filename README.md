@@ -2,7 +2,9 @@
 
 A Decentralized eSports Platform Based on Smart Contracts
 
+<span style="color:grey; font-family: 'Bebas Neue'; font-size: 0.5em;">
 Marco Cuesta, Zack Coburn, Anik Dang, Daniel Temkin, Joe Zhou
+</span>
 
 Draft Version 0.1
 
